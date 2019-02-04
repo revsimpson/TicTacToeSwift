@@ -79,6 +79,7 @@ class ViewController: UIViewController {
             $0.isEnabled = true
             resultLabel.text = "Begin game"
         }
+        activeButtons = []
     }
 }
 
